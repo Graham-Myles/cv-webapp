@@ -29,7 +29,8 @@ function App() {
               </div>
               </div>
               <div className="right">
-                <button className="btn btn-primary">Contact</button>
+              <a href="Contact Info.txt" download="Contact">
+                <button className="btn btn-primary">Contact</button></a>
               </div>
             </nav>
           </div>
